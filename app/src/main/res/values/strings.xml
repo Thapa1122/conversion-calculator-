@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversion - Calculator</string>
+    <string name="unitfrom">Unit From</string>
+    <string name="valuelabel">Value in Gram</string>
+    <string name="value">Enter the Integer in Gram: </string>
+    <string name="spinner">Spinner</string>
+    <string name="convertButton">Convert</string>
+    <string name="Output">Converted Value:</string>
+
+</resources>
